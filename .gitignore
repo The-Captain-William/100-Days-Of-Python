@@ -1,0 +1,6 @@
+ignore/
+*.zip
+custom_library/
+other_library/
+tests/
+day_33_A_Andrew_Tate_Quotes_App/
